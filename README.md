@@ -22,7 +22,7 @@ This   repo   is   a   clone   of https://github.com/nelaturuk/education_pathway
 ## Activity 3
 
 
-![](screenshots/Activity3_new.png)
+![](screenshots/Activity3.png)
 
 
 ## Activity 4
