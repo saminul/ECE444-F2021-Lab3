@@ -50,5 +50,7 @@ One functional requirement I would like to see is being able to view courses bas
 ### Non-functional Requirements
 
 
-For the non-functional requirement, I would want to improve the CORRECTNESS of the system. It is important that the course information shown to the users is correct and up-to date. For example in the ECE444 page for the system, it looks like the pre-requisistes are ECE344 AND ECE353 but it actually is either one of the courses so the information is not correctly portrayed.
+For the non-functional requirement, I would want to improve the CORRECTNESS of the system. It is important that the course information shown to the users is correct and up-to date. For example in the ECE444 page for the system, it looks like the pre-requisistes are ECE344 AND ECE353(see screenshot below) but it actually is either one of the courses so the information is not correctly portrayed.
 
+
+![](screenshots/Activity5.png)
